@@ -1,0 +1,5 @@
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Build%20a%20Data%20Warehouse%20with%20BigQuery%20Challenge%20Lab/gsp340.sh
+
+sudo chmod +x *.sh
+
+./*.sh
